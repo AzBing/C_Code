@@ -1,0 +1,3 @@
+﻿  test.c
+D:\编程\2024\small_project\Play_chess_1_9\Play_chess_1_9\test.c(63,2): warning C4013: “srand”未定义；假设外部返回 int
+  Play_chess_1_9.vcxproj -> D:\编程\2024\small_project\Play_chess_1_9\Debug\Play_chess_1_9.exe
