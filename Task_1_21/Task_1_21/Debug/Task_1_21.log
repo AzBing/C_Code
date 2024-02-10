@@ -1,0 +1,4 @@
+﻿  test.c
+D:\编程\2024\small_project\Task_1_21\Task_1_21\test.c(122,11): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\编程\2024\small_project\Task_1_21\Task_1_21\test.c(172): warning C4715: “my_atoi”: 不是所有的控件路径都返回值
+  Task_1_21.vcxproj -> D:\编程\2024\small_project\Task_1_21\Debug\Task_1_21.exe
