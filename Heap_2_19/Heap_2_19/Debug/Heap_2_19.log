@@ -1,0 +1,7 @@
+﻿  Heap.c
+  Test.c
+D:\编程\2024\small_project\Heap_2_19\Heap_2_19\Test.c(24,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\编程\2024\small_project\Heap_2_19\Heap_2_19\Test.c(30,14): warning C4098: “CreateNode”:“void”函数返回值
+D:\编程\2024\small_project\Heap_2_19\Heap_2_19\Test.c(47,14): warning C4098: “PreintTopk”:“void”函数返回值
+  正在生成代码...
+  Heap_2_19.vcxproj -> D:\编程\2024\small_project\Heap_2_19\Debug\Heap_2_19.exe
