@@ -1,5 +1,0 @@
-﻿D:\kfrj\cyy\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project12_13函数练习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  tese回调函数练习.c
-D:\cy\Project12_13函数练习\Project12_13函数练习\tese回调函数练习.c(82,9): warning C4013: “strcmp”未定义；假设外部返回 int
-D:\cy\Project12_13函数练习\Project12_13函数练习\tese回调函数练习.c(122,2): warning C4013: “qsort”未定义；假设外部返回 int
-  Project12_13函数练习.vcxproj -> D:\cy\Project12_13函数练习\x64\Debug\Project12_13回调函数练习.exe
