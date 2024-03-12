@@ -8,7 +8,6 @@ void StackInit(Stack* ps)
 	ps->a = NULL;
 	ps->top = 0;
 	ps->capacity = 0;
-
 }
 
 // »Î’ª 
