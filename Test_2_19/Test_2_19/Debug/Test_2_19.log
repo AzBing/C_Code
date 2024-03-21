@@ -1,0 +1,8 @@
+﻿  Test.c
+C:\Users\DELL\source\repos\Test_2_19\Test_2_19\Test.c(71,3): warning C4013: “AdjustDown”未定义；假设外部返回 int
+C:\Users\DELL\source\repos\Test_2_19\Test_2_19\Test.c(78,3): warning C4013: “Swap”未定义；假设外部返回 int
+C:\Users\DELL\source\repos\Test_2_19\Test_2_19\Test.c(261,26): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\DELL\source\repos\Test_2_19\Test_2_19\Test.c(265,3): warning C4013: “exit”未定义；假设外部返回 int
+Test.obj : error LNK2019: 无法解析的外部符号 _AdjustDown，函数 _HeapSort 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 _Swap，函数 _HeapSort 中引用了该符号
+C:\Users\DELL\source\repos\Test_2_19\Debug\Test_2_19.exe : fatal error LNK1120: 2 个无法解析的外部命令
