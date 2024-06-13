@@ -1,0 +1,11 @@
+﻿  test.cpp
+D:\编程\2024\small_project\Test_6_11\Test_6_11\HashTable.h(214,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+D:\编程\2024\small_project\Test_6_11\Test_6_11\HashTable.h(250,5): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  (编译源文件“test.cpp”)
+  
+D:\编程\2024\small_project\Test_6_11\Test_6_11\HashTable.h(258,6): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  (编译源文件“test.cpp”)
+  
+  Test_6_11.vcxproj -> D:\编程\2024\small_project\Test_6_11\Debug\Test_6_11.exe
