@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\编程\2024_code\code_practice\Test_6_14\Test_6_14\test.cpp(13,2): warning C4102: “std”: 未引用的标签
+  Test_6_14.vcxproj -> D:\编程\2024_code\code_practice\Test_6_14\Debug\Test_6_14.exe
