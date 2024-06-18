@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\编程\2024_code\code_practice\Test_6_16\Test_6_16\BloomFilter.h(125,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+  Test_6_16.vcxproj -> D:\编程\2024_code\code_practice\Test_6_16\Debug\Test_6_16.exe
