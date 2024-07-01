@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\编程\2024_code\code_practice\7_1\7_1\test.cpp(13,1): warning C4172: 返回局部变量或临时变量的地址: n
+  7_1.vcxproj -> D:\编程\2024_code\code_practice\7_1\Debug\7_1.exe
