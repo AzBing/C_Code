@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\编程\2024_code\code_practice\7_15\7_15\test.cpp(200,5): warning C4101: “bb”: 未引用的局部变量
+D:\编程\2024_code\code_practice\7_15\7_15\test.cpp(212,4): warning C4101: “aa”: 未引用的局部变量
+  7_15.vcxproj -> D:\编程\2024_code\code_practice\7_15\Debug\7_15.exe
