@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+  test.cpp
+D:\编程\2024_code\code_practice\9_20\9_20\test.cpp(81,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\编程\2024_code\code_practice\9_20\9_20\test.cpp(82,15): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  正在生成代码...
+  9_20.vcxproj -> D:\编程\2024_code\code_practice\9_20\Debug\9_20.exe
